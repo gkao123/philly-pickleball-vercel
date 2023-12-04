@@ -14,7 +14,7 @@ const config: DocsThemeConfig = {
       </svg>
     )
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/gkao123/philly-pickleball-vercel/tree/main',
   footer: {
     text: (
       <span>
